@@ -1,0 +1,15 @@
+body {
+    width: 90%;
+    margin: auto;
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
